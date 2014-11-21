@@ -1,4 +1,4 @@
-**DEPRICATION WARNING! Due to the latest Spotify UI update, the star feature has been removed. I'll soon update twinkle to support a new way to saving your favourite tunes. Hold tight!**
+**DEPRECATION WARNING! Spotify does not longer support Spotify Apps and has also changed the way songs are starred. Thus this project is to be considered discontinued and is only here for historical reasons**
 
 ![Twinkle white star](http://erik.r.yverling.se/images/external/white-star.png)
 
